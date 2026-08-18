@@ -13,7 +13,7 @@ Site institucional/portfólio em HTML, CSS e JavaScript puro.
 2. Procure:
    `const whatsappNumber = '5511999999999';`
 3. Troque pelo seu número com DDI + DDD, apenas números.
-   Exemplo: `5511987654321`.
+   Exemplo: `5511920900096`.
 4. Em `index.html`, troque `contato@nexoradigital.com.br` pelo seu e-mail real.
 5. Quando tiver domínio, ajuste o texto `nexoradigital.com.br` mostrado no mockup, se desejar.
 
