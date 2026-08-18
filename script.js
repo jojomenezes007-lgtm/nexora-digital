@@ -34,7 +34,7 @@ document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
 document.getElementById('year').textContent = new Date().getFullYear();
 
 // TROQUE PELO SEU NÚMERO NO FORMATO: 5511999999999
-const whatsappNumber = '5511999999999';
+const whatsappNumber = '5511920900096';
 const whatsappMessage = encodeURIComponent(
   'Olá! Vi o portfólio da Nexora Digital e gostaria de solicitar um orçamento para meu site.'
 );
